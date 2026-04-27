@@ -2,6 +2,12 @@
 
 Este projeto reúne um notebook para treinar um modelo YOLO voltado à detecção de buracos em vias. O fluxo cobre desde o download do dataset no Roboflow até a exportação do melhor modelo para `ONNX`, além de testes com imagem e vídeo.
 
+## Aplicação publicada
+
+O app do projeto está disponível em:
+
+- https://detector-de-buracos.lovable.app
+
 ## Arquivo principal
 
 - `treino_buracos_yolo.ipynb`: notebook com todo o pipeline de treino, exportação e inferência.
